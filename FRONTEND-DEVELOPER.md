@@ -1,4 +1,4 @@
-Dear Frontend Developer,
+🦌 Frontend Developer,
 
 ⌨️ IF
 
